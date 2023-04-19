@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "%2f" expr $NUM | sort
+printf "%.2f \n" $MYNUM
